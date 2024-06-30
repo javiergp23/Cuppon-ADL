@@ -6,13 +6,10 @@ body {
   width: 100px;
 }
 
-p,
-.gris,
-input[placeholder] {
+p, .gris, input[placeholder] {
   color: #707070;
   font-weight: 300;
 }
-
 
 .bg-green {
   background-color: #28a745;
